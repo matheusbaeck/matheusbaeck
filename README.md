@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img alt="Static Badge" src="https://img.shields.io/badge/!%5B%3CBadge%20Name%3E%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2F%3CBadge%20Text%3E-%3CBackground%20Color%3E%3Fstyle%3Dfor-the-badge%26logo%3D%3CIcon%20Name%3E%26logoColor%3D%3CLogo%20Color%3E)">
 
 <!--
 **matheusbaeck/matheusbaeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
