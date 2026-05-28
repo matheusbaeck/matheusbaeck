@@ -1,6 +1,6 @@
 ### <div align="center">I'm Matheus, a full-time developer 🚀</div>
 
-- 🔭 I’m currently working on [Nibble Automation](https://www.nibblegroup.com/)  
+- 🔭 I’m currently working on [Nibble Automation](https://www.nibblegroup.com/)  (since sep 2024)
   
 
 - 🌱 I’m currently learning studying in [42Madrid](https://www.42madrid.com/)  
