@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning studying in [42Madrid](https://www.42madrid.com/)  
   
 
-- ⭐ I'm an highly experienced in C / C++ / Shell Scripting with Bash / Linux.  
+- ⭐ I'm experienced in .NET C# / C / C++ / Shell Scripting with Bash / Linux / Docker.  
   
 
 - ⚡ Fun fact: Physics has been my passion since childhood, and quantum computing fuels my curiosity  
