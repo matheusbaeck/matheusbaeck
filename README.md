@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Nibble Automation](https://www.nibblegroup.com/)  (since sep 2024)
   
 
-- 🌱 I’m outercore in [42Madrid](https://www.42madrid.com/)  
+- 🌱 Outercore in [42Madrid](https://www.42madrid.com/) and always learning more.  
   
 
 - ⭐ I'm experienced in .NET C# / C / C++ / Shell Scripting with Bash / Linux / Docker.  
